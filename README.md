@@ -5,7 +5,7 @@ Intern @ Infotact Solutions Pvt Ltd
 - 🔭 Here's my                                                
 - 🌱 I’m currently learning Data Analysis
 - Engineeing at [<img src="https://www.highbrowtechnology.com/_next/image?url=https%3A%2F%2Fhighbrow-resources.s3.amazonaws.com%2FHighbrow%2BWebsite%2BContent%2FHighbrow_Light.png&w=256&q=75" height="24">](https://www.highbrowtechnology.com/),
-- Previously worked with [<img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/ZOHO_New.png" height="24">](https://www.tcs.com/) [<img height="24" width="24" src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif">](https://catalyst.zoho.com/)
+- Previously worked with [(https://github.com/Harivjprasath/Harivjprasath/blob/7957e0d2234bdb0adf1dd42e970be0634b49cd7a/Tata_Consultancy_Services_Logo_0.svg)
 - ⚡ Fun fact: Got a unique blend of finance and tech skills — not many people dive into both capital markets and data analytics at the same time. 
 - Social Presence
 <br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/hareesh_dev) <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/hareesh_._r/)
