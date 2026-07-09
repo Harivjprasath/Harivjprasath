@@ -1,30 +1,30 @@
 <h1 align="left">Hi 👋, I'm Hari Prasath S</h1>
 
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Data+Analyst;Power+BI+Developer;Web+App+Builder;AI+Enthusiast" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/🚀-Building%20Smart%20Solutions-blueviolet?style=for-the-badge" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/hari-prasath-557154293/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 </p>
 
 ## 👀 Profile Views
-<p align="center">
+<p align="left">
   <a href="https://github.com/Harivjprasath/">
     <img src="https://img.shields.io/github/followers/Kunalray0707?style=for-the-badge&logo=github" />
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Harivjprasath&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
