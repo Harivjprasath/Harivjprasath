@@ -1,26 +1,157 @@
-## Hi there 👋 It's me Hari Prasath
+<h1 align="center">Hi 👋, I'm Hri Prasath S</h1>
 
-Intern @ Infotact Solutions Pvt Ltd
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my                                                
-- 🌱 I’m currently learning Data Analysis
-- Previously worked with ![Alt Text]([<img height="24" width="24"] (https://github.com/Harivjprasath/Harivjprasath/blob/9efae74d76ab3018dd6cf4bc84ae8b3c66b6fdcd/Tata_Consultancy_Services_Logo_0.svg)
-- ⚡ Fun fact: Got a unique blend of finance and tech skills
-<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/Hari606vj) <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Data+Analyst;Power+BI+Developer;Web+App+Builder;AI+Enthusiast" />
+</p>
 
-### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/><img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/fluency/48/000000/handlebar-mustache.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/null/graphql.png"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀-Building%20Smart%20Solutions-blueviolet?style=for-the-badge" />
+</p>
 
-### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img height="50" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/>
+---
 
+## 🌐 Connect With Me
+<p align="center">
+<a href="https://www.linkedin.com/in/kunal-ray-3483812b9/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+</p>
 
-### 💻 Workspace Spec
-<img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
+## 👀 Profile Views
+<p align="center">
+  <a href="https://github.com/Kunalray0707">
+    <img src="https://img.shields.io/github/followers/Kunalray0707?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kunalray0707&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
+---
 
-[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 👨‍💻 About Me
+
+<img align="right" width="260" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+- 🧠 Tech Enthusiast  
+- 📊 Passionate about Data Analytics & Visualization  
+- 🌐 Building Web Apps & Smart Platforms  
+- 🤖 Exploring AI & Automation  
+- 💼 Open to Data Analyst / Developer roles  
+
+---
+
+## 🧰 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,js,html,css" />
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/color/70/power-bi.png"/>
+  <img src="https://img.icons8.com/color/70/ms-excel.png"/>
+  <img src="https://img.icons8.com/color/70/tableau-software.png"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Skills-ChatGPT%20%7C%20Automation%20%7C%20Prompt%20Engineering-purple?style=for-the-badge" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+---
+
+### 📊 Data Analytics Projects
+<p align="center">
+
+<a href="https://github.com/Kunalray0707/Zomato-Sales-Performance">
+  <img width="80" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Zomato_logo.png"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Zomato%20Sales%20Analysis-View%20Project-red?style=for-the-badge"/>
+</a>
+</p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<p align="center">
+<a href="https://github.com/Kunalray0707/Netflix-Content-Analysis">
+  <img width="80" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Netflix%20Analysis-View%20Project-black?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+### 🌐 Web Development Projects
+<p align="center">
+
+<a href="https://github.com/Kunalray0707/QuizNova---The-Next-Generation-Smart-Quiz-Platform">
+  <img width="80" src="https://cdn-icons-png.flaticon.com/512/3407/3407033.png"/>
+  <br/>
+  <img src="https://img.shields.io/badge/QuizNova-View%20Project-purple?style=for-the-badge"/>
+</a>
+</p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<p align="center">
+<a href="https://github.com/Kunalray0707/EDUSPHERE---Smart-AI-Learning-Platform">
+  <img width="80" src="https://cdn-icons-png.flaticon.com/512/3135/3135755.png"/>
+  <br/>
+  <img src="https://img.shields.io/badge/EDUSPHERE-View%20Project-blue?style=for-the-badge"/>
+</a>
+</p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<p align="center">
+<a href="https://github.com/Kunalray0707/ConnectPro---Professional-Matchmaking-Web-App">
+  <img width="80" src="https://cdn-icons-png.flaticon.com/512/1077/1077114.png"/>
+  <br/>
+  <img src="https://img.shields.io/badge/ConnectPro-Networking-green?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+## 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kunalray0707&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kunalray0707&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+---
+
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kunalray0707&theme=onestar&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+##  🧠 Mindset
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Code.+Break.+Fix.+Repeat.;Data+%2B+Logic+%3D+Impact;Consistency+beats+motivation;Build+things+that+matter;Stay+curious+⚡" />
+</p>
+
+---
+
+## 👾 Contribution Playground
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🕹️%20Commit%20Snake-ON-yellow?style=for-the-badge&logo=ghost&logoColor=black"/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
+
+---
+## 🧠 Current Focus
+- 📊 Advanced dashboards  
+- 🌐 Full-stack applications  
+- 🤖 AI-powered systems  
