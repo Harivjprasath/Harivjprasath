@@ -66,31 +66,18 @@
 
 ---
 
-### 📊 Data Analytics Projects
+## 📊 Data Analytics Projects
 <p align="center">
 
-<a href="https://github.com/Kunalray0707/Zomato-Sales-Performance">
-  <img width="80" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Zomato_logo.png"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Zomato%20Sales%20Analysis-View%20Project-red?style=for-the-badge"/>
-</a>
-</p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<p align="center">
-<a href="https://github.com/Kunalray0707/Netflix-Content-Analysis">
-  <img width="80" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Netflix%20Analysis-View%20Project-black?style=for-the-badge"/>
-</a>
+Under Working - Stay Tuned
 
 </p>
+
 ---
 
 ##  🧠 Mindset
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Code.+Break.+Fix.+Repeat.;Data+%2B+Logic+%3D+Impact;Consistency+beats+motivation;Build+things+that+matter;Stay+curious+⚡" />
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?color=B22222&Left=true&vLeft=true&width=500&lines=Code.+Break.+Fix.+Repeat.;Data+%2B+Logic+%3D+Impact;Consistency+beats+motivation;Build+things+that+matter;Stay+curious+⚡" />
 </p>
 
 ---
