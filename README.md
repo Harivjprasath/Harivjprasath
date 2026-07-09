@@ -19,7 +19,7 @@
 
 ## 👀 Profile Views
 <p align="center">
-  <a href="https://github.com/Kunalray0707">
+  <a href="https://github.com/Harivjprasath/">
     <img src="https://img.shields.io/github/followers/Kunalray0707?style=for-the-badge&logo=github" />
   </a>
 </p>
