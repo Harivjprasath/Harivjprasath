@@ -2,13 +2,11 @@
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Impact+Code&size=28&duration=3000&pause=1000&color=FF0000&left=true&vleft=true&width=600&lines=Data+Analyst;Power+BI+Developer;Web+App+Builder;AI+Enthusiast" />
-
 </p>
+🔭 I’m currently working on enhancing my coding skills and exploring new technologies.<br>🛠️ I’m looking to collaborate on: Open-source projects, coding competitions, and tech-driven innovations.<br>🌱 I’m currently learning: Python Pandas, SQL Developers<br>💬 Ask me about Programming, problem-solving, and anything tech-related.<br> 
+Previously worked with <a href="https://www.tcs.com/"><img src="https://cdn.simpleicons.org/tcs" height="24" alt="TCS" /></a>
 
-- 🔭 Here's my [portfolio]                                              
-- 🌱 I’m currently learning about Data Analytics and How it works.
-- Previously worked with [<img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/ZOHO_New.png" height="24">](https://www.zoho.com/) [<img height="24" width="24" src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif">](https://catalyst.zoho.com/)
-- ⚡ Fun fact: I Enjoy blending both technology and finance.
+⚡ Fun fact: I Enjoy blending both technology and finance.
 
 <p align="left">
   <img src="https://img.shields.io/badge/🚀-Building%20Smart%20Solutions-silver?style=for-the-badge" />
