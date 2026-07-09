@@ -45,7 +45,7 @@
 
 ## 🧰 Tech Stack
 
-<img align="right" width="260" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="center" width="260" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,anaconda,gmail,linkedin,mysql" />
