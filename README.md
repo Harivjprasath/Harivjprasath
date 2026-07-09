@@ -12,7 +12,7 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-<a href="www.linkedin.com/in/hari-prasath-557154293">
+<a href="https://www.linkedin.com/in/hari-prasath-557154293/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 </p>
