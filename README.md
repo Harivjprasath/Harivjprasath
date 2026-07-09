@@ -30,7 +30,7 @@
 
 ---
 
-## 👀 Profile Views
+## 👀 GitHub Profile
 
 <p align="left">
   <a href="https://github.com/Harivjprasath/">
