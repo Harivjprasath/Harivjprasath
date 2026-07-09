@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Hari Prasath S</h1>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF0000&left=true&vleft=true&width=600&lines=Data+Analyst;Power+BI+Developer;Web+App+Builder;AI+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Impact+Code&size=28&duration=3000&pause=1000&color=FF0000&left=true&vleft=true&width=600&lines=Data+Analyst;Power+BI+Developer;Web+App+Builder;AI+Enthusiast" />
 </p>
 
 <p align="left">
@@ -29,7 +29,7 @@
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Harivjprasath&label=Profile%20Views&color=C0C0C0" />
+  <img src="https://img.shields.io/badge/Profile%20Views-8-black?style=for-the-badge&logo&color=C0C0C0" />
 </p>
 
 ---
@@ -77,7 +77,7 @@ Under Working - Stay Tuned
 
 ##  🧠 Mindset
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=B22222&Left=true&vLeft=true&width=500&lines=Code.+Break.+Fix.+Repeat.;Data+%2B+Logic+%3D+Impact;Consistency+beats+motivation;Build+things+that+matter;Stay+curious+⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&Left=true&vLeft=true&width=500&lines=Code.+Break.+Fix.+Repeat.;Data+%2B+Logic+%3D+Impact;Consistency+beats+motivation;Build+things+that+matter;Stay+curious+⚡" />
 </p>
 
 ---
@@ -85,7 +85,7 @@ Under Working - Stay Tuned
 ## 👾 Contribution Playground
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🕹️%20Commit%20Snake-ON-yellow?style=for-the-badge&logo=ghost&logoColor=black"/>
+  <img src="https://img.shields.io/badge/🕹️%20Commit%20Snake-ON-green?style=for-the-badge&logo=ghost&logoColor=black"/>
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
