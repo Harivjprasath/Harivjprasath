@@ -35,8 +35,7 @@
 <img align="right" width="260" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 - 🧠 Tech Enthusiast  
-- 📊 Passionate about Data Analytics & Visualization  
-- 🌐 Building Web Apps & Smart Platforms  
+- 📊 Passionate about Data Analytics & Visualization   
 - 🤖 Exploring AI & Automation  
 - 💼 Open to Data Analyst / Developer roles  
 
@@ -44,13 +43,12 @@
 
 ## 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,html" />
 </p>
 
 <p align="center">
   <img src="https://img.icons8.com/color/70/power-bi.png"/>
   <img src="https://img.icons8.com/color/70/ms-excel.png"/>
-  <img src="https://img.icons8.com/color/70/tableau-software.png"/>
 </p>
 
 <p align="center">
