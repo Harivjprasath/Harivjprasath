@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Hari Prasath S</h1>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Impact+Code&size=28&duration=3000&pause=1000&color=FF0000&left=true&vleft=true&width=600&lines=Data+Analyst;Power+BI+Developer;Web+App+Builder;AI+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Impact+Code&size=30&duration=3000&pause=1000&color=FF0000&left=true&vleft=true&width=600&lines=Data+Analyst;Power+BI+Developer;Web+App+Builder;AI+Enthusiast" />
 </p>
 🔭 I’m currently working on enhancing my coding skills and exploring new technologies.<br>🛠️ I’m looking to collaborate on: Open-source projects, Analysing research, and tech-driven innovations.<br>🌱 I’m currently learning: Python Pandas, SQL Developers<br>💬 Ask me about Programming, problem-solving, and anything tech-related.<br> 
 📌 Previously worked with <a href="https://www.tcs.com/"><img src="https://cdn.simpleicons.org/tcs" height="15" width="24" alt="TCS" /></a>
@@ -77,7 +77,7 @@ Underworking - Stay Tuned
 
 ##  🧠 Mindset
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&Left=true&vLeft=true&width=500&lines=Code.+Break.+Fix.+Repeat.;Data+%2B+Logic+%3D+Impact;Consistency+beats+motivation;Build+things+that+matter;Stay+curious+⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=25&Left=true&vLeft=true&width=500&lines=Code.+Break.+Fix.+Repeat.;Data+%2B+Logic+%3D+Impact;Consistency+beats+motivation;Build+things+that+matter;Stay+curious+⚡" />
 </p>
 
 ---
