@@ -21,6 +21,12 @@
 <img src="https://img.shields.io/badge/LinkedIn-Connect-silver?style=for-the-badge&logo=linkedin"/>
 </a>
 </p>
+  
+<a href="mailto:hari606vj@gmail.com">
+<img src="https://img.shields.io/badge/Email-Connect-silver?style=for-the-badge&logo=Email"/>
+</a>
+
+</p>
 
 ---
 
