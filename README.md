@@ -9,7 +9,9 @@
 ⚡ Fun fact: I Enjoy blending both technology and finance.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/🚀-Building%20Smart%20Solutions-silver?style=for-the-badge" />
+<a href ="https://medium.com/personal-growth/smart-thinking-is-a-skill-84d2fd7ff569/">
+<img src="https://img.shields.io/badge/🚀-Building%20Smart%20Solutions-silver?style=for-the-badge" />
+</a>
 </p>
 
 ---
