@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hri Prasath S</h1>
+<h1 align="center">Hi 👋, I'm Hari Prasath S</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Data+Analyst;Power+BI+Developer;Web+App+Builder;AI+Enthusiast" />
@@ -12,7 +12,7 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-<a href="https://www.linkedin.com/in/kunal-ray-3483812b9/">
+<a href="www.linkedin.com/in/hari-prasath-557154293">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 </p>
