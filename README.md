@@ -11,13 +11,17 @@
 ---
 
 ## 🌐 Connect With Me
+
 <p align="left">
 <a href="https://www.linkedin.com/in/hari-prasath-557154293/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-silver?style=for-the-badge&logo=linkedin"/>
 </a>
 </p>
 
+---
+
 ## 👀 Profile Views
+
 <p align="left">
   <a href="https://github.com/Harivjprasath/">
     <img src="https://img.shields.io/github/followers/Harivjprasath?style=for-the-badge&logo=github&color=C0C0C0" />
@@ -32,27 +36,28 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="260" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
 - 🧠 Tech Enthusiast  
 - 📊 Passionate about Data Analytics & Visualization   
 - 🤖 Exploring AI & Automation  
-- 💼 Open to Data Analyst / Developer roles  
+- 💼 Open to Data Analyst roles  
 
 ---
 
 ## 🧰 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,html" />
+
+<img align="right" width="260" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,anaconda,gmail,linkedin,mysql" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://img.icons8.com/color/70/power-bi.png"/>
   <img src="https://img.icons8.com/color/70/ms-excel.png"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Skills-ChatGPT%20%7C%20Automation%20%7C%20Prompt%20Engineering-purple?style=for-the-badge" />
+<p align="left">
+  <img src="https://img.shields.io/badge/AI%20Skills-ChatGPT%20%7C%20Copilot%20%7C%20Prompt%20Visualization-silver?style=for-the-badge" />
 </p>
 
 ---
@@ -81,55 +86,6 @@
 </a>
 
 </p>
-
----
-
-### 🌐 Web Development Projects
-<p align="center">
-
-<a href="https://github.com/Kunalray0707/QuizNova---The-Next-Generation-Smart-Quiz-Platform">
-  <img width="80" src="https://cdn-icons-png.flaticon.com/512/3407/3407033.png"/>
-  <br/>
-  <img src="https://img.shields.io/badge/QuizNova-View%20Project-purple?style=for-the-badge"/>
-</a>
-</p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<p align="center">
-<a href="https://github.com/Kunalray0707/EDUSPHERE---Smart-AI-Learning-Platform">
-  <img width="80" src="https://cdn-icons-png.flaticon.com/512/3135/3135755.png"/>
-  <br/>
-  <img src="https://img.shields.io/badge/EDUSPHERE-View%20Project-blue?style=for-the-badge"/>
-</a>
-</p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<p align="center">
-<a href="https://github.com/Kunalray0707/ConnectPro---Professional-Matchmaking-Web-App">
-  <img width="80" src="https://cdn-icons-png.flaticon.com/512/1077/1077114.png"/>
-  <br/>
-  <img src="https://img.shields.io/badge/ConnectPro-Networking-green?style=for-the-badge"/>
-</a>
-
-</p>
-
----
-
-## 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kunalray0707&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kunalray0707&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
----
-
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kunalray0707&theme=onestar&no-frame=true&row=1&column=6" />
-</p>
-
 ---
 
 ##  🧠 Mindset
@@ -151,5 +107,5 @@
 ---
 ## 🧠 Current Focus
 - 📊 Advanced dashboards  
-- 🌐 Full-stack applications  
+- 🌐 Research Analytics
 - 🤖 AI-powered systems  
