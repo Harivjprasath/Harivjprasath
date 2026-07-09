@@ -4,7 +4,7 @@ Intern @ Infotact Solutions Pvt Ltd
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my                                                
 - 🌱 I’m currently learning Data Analysis
-- Previously worked with ![Alt Text]([<img height="24" width="24" src="https://github.com/Harivjprasath/Harivjprasath/blob/9efae74d76ab3018dd6cf4bc84ae8b3c66b6fdcd/Tata_Consultancy_Services_Logo_0.svg")
+- Previously worked with ![Alt Text]([<img height="24" width="24"] (https://github.com/Harivjprasath/Harivjprasath/blob/9efae74d76ab3018dd6cf4bc84ae8b3c66b6fdcd/Tata_Consultancy_Services_Logo_0.svg)
 - ⚡ Fun fact: Got a unique blend of finance and tech skills — not many people dive into both capital markets and data analytics at the same time. 
 - Social Presence
 <br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/hareesh_dev) <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/hareesh_._r/)
