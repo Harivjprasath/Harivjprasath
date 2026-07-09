@@ -66,14 +66,10 @@
 
 ---
 
-## 🚀 Featured Projects
-
----
-
 ## 📊 Data Analytics Projects
 <p align="center">
 
-Under Working - Stay Tuned
+Underworking - Stay Tuned
 
 </p>
 
