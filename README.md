@@ -2,7 +2,13 @@
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Impact+Code&size=28&duration=3000&pause=1000&color=FF0000&left=true&vleft=true&width=600&lines=Data+Analyst;Power+BI+Developer;Web+App+Builder;AI+Enthusiast" />
+
 </p>
+
+- 🔭 Here's my [portfolio]                                              
+- 🌱 I’m currently learning about Data Analytics and How it works.
+- Previously worked with [<img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/ZOHO_New.png" height="24">](https://www.zoho.com/) [<img height="24" width="24" src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif">](https://catalyst.zoho.com/)
+- ⚡ Fun fact: I Enjoy blending both technology and finance.
 
 <p align="left">
   <img src="https://img.shields.io/badge/🚀-Building%20Smart%20Solutions-silver?style=for-the-badge" />
