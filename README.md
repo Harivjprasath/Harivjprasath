@@ -3,8 +3,8 @@
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Impact+Code&size=28&duration=3000&pause=1000&color=FF0000&left=true&vleft=true&width=600&lines=Data+Analyst;Power+BI+Developer;Web+App+Builder;AI+Enthusiast" />
 </p>
-🔭 I’m currently working on enhancing my coding skills and exploring new technologies.<br>🛠️ I’m looking to collaborate on: Open-source projects, coding competitions, and tech-driven innovations.<br>🌱 I’m currently learning: Python Pandas, SQL Developers<br>💬 Ask me about Programming, problem-solving, and anything tech-related.<br> 
-📌 Previously worked with <a href="https://www.tcs.com/"><img src="https://cdn.simpleicons.org/tcs" height="24" alt="TCS" /></a>
+🔭 I’m currently working on enhancing my coding skills and exploring new technologies.<br>🛠️ I’m looking to collaborate on: Open-source projects, Analysing research, and tech-driven innovations.<br>🌱 I’m currently learning: Python Pandas, SQL Developers<br>💬 Ask me about Programming, problem-solving, and anything tech-related.<br> 
+📌 Previously worked with <a href="https://www.tcs.com/"><img src="https://cdn.simpleicons.org/tcs" height="15" width="24" alt="TCS" /></a>
 
 ⚡ Fun fact: I Enjoy blending both technology and finance.
 
