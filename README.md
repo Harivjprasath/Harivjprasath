@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/🚀-Building%20Smart%20Solutions-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀-Building%20Smart%20Solutions-silver?style=for-the-badge" />
 </p>
 
 ---
@@ -13,19 +13,19 @@
 ## 🌐 Connect With Me
 <p align="left">
 <a href="https://www.linkedin.com/in/hari-prasath-557154293/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-purple?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-silver?style=for-the-badge&logo=linkedin"/>
 </a>
 </p>
 
 ## 👀 Profile Views
 <p align="left">
   <a href="https://github.com/Harivjprasath/">
-    <img src="https://img.shields.io/github/followers/Kunalray0707?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/github/followers/Harivjprasath?style=for-the-badge&logo=github&color=C0C0C0" />
   </a>
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Harivjprasath&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Harivjprasath&label=Profile%20Views&color=C0C0C0" />
 </p>
 
 ---
